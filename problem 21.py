@@ -24,6 +24,5 @@ if __name__ == "__main__":
                    else:
                        break
 
-print("aayush")
 
 print(total_sum)
